@@ -3,3 +3,5 @@ Adidas: to be the global leader in the sporting goods industry with brands built
 Rewrite-1: Be the leader in sporting goods industry, built it with passion, and commitment.
 
 rewrite-2: Thrive in the Global Sporting industry, built it with passion.
+
+rewrite-3: Be the leader, grow with passion, advancing the sporting goods industry.
